@@ -1,12 +1,25 @@
 <!DOCTYPE html>
 <html 1ang="en" dir="1tr">
 <head>
-<meta @charset "UTF-8">
+<meta charset "UTF-8">
 <title>clouds animation</title>
 <link rel="stylesheet" href="style.css">
 </head>
 <body>
 <div id="background-wrap">
+<div class"1">
+<div class="cloud"></div>
+</div>
+<div class"2">
+<div class="cloud"></div>
+</div>
+<div class"3">
+<div class="cloud"></div>
+</div>
+<div class"4">
+<div class="cloud"></div>
+</div>
+<div class"5">
 <div class="cloud"></div>
 </div>
 </div>
