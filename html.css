@@ -1,2 +1,14 @@
 <!DOCTYPE html>
 <html 1ang="en" dir="1tr">
+<head>
+<meta @charset "UTF-8">
+<title>clouds animation</title>
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+<div id="background-wrap">
+<div class="cloud"></div>
+</div>
+</div>
+</body>
+</html>
